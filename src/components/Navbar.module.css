@@ -1,0 +1,28 @@
+.Nav{
+
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+   margin-bottom: 50px;
+   border: 1px solid;
+   padding: 20px;
+   margin-top: 20px;
+   background-color: bisque;
+}
+
+.data{
+    display: flex;
+    gap: 100px;
+    margin-left: 600px;
+    background-color: aqua;
+    padding: 20px;
+    width: 400px;
+}
+.each{
+    background-color: rgb(0, 255, 195);
+    padding: 20px;
+    width: 400px;
+    margin-left: 600px;
+    margin-top: 20px;
+}
